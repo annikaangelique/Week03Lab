@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author alexz
+ * @author Annika Vestre
  */
 public class ArithmeticCalculatorServlet extends HttpServlet {
 
